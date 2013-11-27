@@ -1,0 +1,14 @@
+C:\Users\availlant\Documents\Visual Studio 2012\Projects\ExtraireNomsFichiers\ExtraireNomsFichiers\bin\Debug\ExtraireNomsFichiers.exe.config
+C:\Users\availlant\Documents\Visual Studio 2012\Projects\ExtraireNomsFichiers\ExtraireNomsFichiers\bin\Debug\ExtraireNomsFichiers.exe
+C:\Users\availlant\Documents\Visual Studio 2012\Projects\ExtraireNomsFichiers\ExtraireNomsFichiers\bin\Debug\ExtraireNomsFichiers.pdb
+C:\Users\availlant\Documents\Visual Studio 2012\Projects\ExtraireNomsFichiers\ExtraireNomsFichiers\obj\Debug\ExtraireNomsFichiers.csprojResolveAssemblyReference.cache
+C:\Users\availlant\Documents\Visual Studio 2012\Projects\ExtraireNomsFichiers\ExtraireNomsFichiers\obj\Debug\MainWindow.baml
+C:\Users\availlant\Documents\Visual Studio 2012\Projects\ExtraireNomsFichiers\ExtraireNomsFichiers\obj\Debug\MainWindow.g.cs
+C:\Users\availlant\Documents\Visual Studio 2012\Projects\ExtraireNomsFichiers\ExtraireNomsFichiers\obj\Debug\App.g.cs
+C:\Users\availlant\Documents\Visual Studio 2012\Projects\ExtraireNomsFichiers\ExtraireNomsFichiers\obj\Debug\ExtraireNomsFichiers_MarkupCompile.cache
+C:\Users\availlant\Documents\Visual Studio 2012\Projects\ExtraireNomsFichiers\ExtraireNomsFichiers\obj\Debug\ExtraireNomsFichiers.g.resources
+C:\Users\availlant\Documents\Visual Studio 2012\Projects\ExtraireNomsFichiers\ExtraireNomsFichiers\obj\Debug\ExtraireNomsFichiers.Properties.Resources.resources
+C:\Users\availlant\Documents\Visual Studio 2012\Projects\ExtraireNomsFichiers\ExtraireNomsFichiers\obj\Debug\ExtraireNomsFichiers.csproj.GenerateResource.Cache
+C:\Users\availlant\Documents\Visual Studio 2012\Projects\ExtraireNomsFichiers\ExtraireNomsFichiers\obj\Debug\ExtraireNomsFichiers.exe
+C:\Users\availlant\Documents\Visual Studio 2012\Projects\ExtraireNomsFichiers\ExtraireNomsFichiers\obj\Debug\ExtraireNomsFichiers.pdb
+C:\Users\availlant\Documents\Visual Studio 2012\Projects\ExtraireNomsFichiers\ExtraireNomsFichiers\obj\Debug\App.baml
