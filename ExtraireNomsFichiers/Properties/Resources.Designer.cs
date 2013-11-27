@@ -59,15 +59,5 @@ namespace ExtraireNomsFichiers.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Recherche une ressource localisée de type System.Drawing.Icon semblable à (Icône).
-        /// </summary>
-        internal static System.Drawing.Icon mainIcon {
-            get {
-                object obj = ResourceManager.GetObject("mainIcon", resourceCulture);
-                return ((System.Drawing.Icon)(obj));
-            }
-        }
     }
 }
